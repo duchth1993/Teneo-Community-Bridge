@@ -16,7 +16,7 @@ To build a permissionless, community-powered agent that solves the problem of fr
 - GitHub API
 
 ## 📽️ Demo Video
-[Click here to watch the demo](https://drive.google.com/file/d/1ryYgz92Z7VxY0N22VVPA4484CcrXuM1c/view?usp=sharing) 
+[Click here to watch the demo](https://drive.google.com/file/d/1A8_QitLnBDDCu9FIOeEHtQesT6tUrY8i/view?usp=sharing) 
 
 ## 📋 How to Run
 1. Clone this repo
