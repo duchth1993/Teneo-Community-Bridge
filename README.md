@@ -2,7 +2,7 @@
 A decentralized agent that bridges Web3 communities by aggregating real-time public data from Twitter, Discord, and GitHub into the Teneo Chat Room — making information open, accessible, and fairly distributed. Built for the Teneo Genesis Program.
 # Community Bridge for Teneo Protocol
 
-![Teneo Logo](https://cdn.prod.website-files.com/665c71122bb2018f6ed3f9c9/68626c81a5eb5e3d59bcf826_Group%201000003404%20(1).png)<img src="https://i.imgur.com/7XJZzQk.png" alt="Teneo Logo" width="180"/>
+![Teneo Logo](https://cdn.prod.website-files.com/665c71122bb2018f6ed3f9c9/68626c81a5eb5e3d59bcf826_Group%201000003404%20(1).png)
 
 > A decentralized agent that bridges Web3 communities by aggregating real-time public data from Twitter, Discord, and GitHub into the Teneo Chat Room — making information open, accessible, and fairly distributed.
 
